@@ -1,0 +1,6 @@
+g++
+-I../../include
+-I/usr/X11R6/include
+-g
+-Wall
+-std=c++0x

@@ -1,0 +1,3 @@
+cd /home/gom/code/irrlicht-1.7.3/examples/carcassoneGen/
+file /home/gom/code/irrlicht-1.7.3/bin/Linux/00.Gom2
+break /home/gom/code/irrlicht-1.7.3/examples/carcassoneGen/main.cpp:65
